@@ -1,3 +1,4 @@
+require 'pry'
 def new_hash(la)
   empty_hash= {}
   puts empty_hash
