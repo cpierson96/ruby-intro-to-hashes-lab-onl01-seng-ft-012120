@@ -39,7 +39,7 @@ def monopoly_with_third_tier
 	   :pieces=>4,
 	   :names=>
 	   {
-	     :reading_railroad=> {},
+	     :reading_railroad=>{},
 	     :pennsylvania_railroad=>{},
 	     :b_and_o_railroad=>{},
 	     :shortline=>{}
@@ -53,7 +53,7 @@ def monopoly_with_third_tier
 	     
 	   
 	 
-	} 
+	   } 
 }
 	}#copy and paste the 
 
@@ -78,7 +78,7 @@ def monopoly_with_fourth_tier
 	    :three_pieces_owned=>100,
 	    :four_pieces_owned=>200
 	   
-	 
+	   }
 	 }
 	}
 
