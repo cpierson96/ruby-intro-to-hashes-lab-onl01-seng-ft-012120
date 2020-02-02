@@ -14,8 +14,6 @@ end
 def monopoly
 	monopoly = {
 	 
-	},
-	  
 	  
 	}
 
