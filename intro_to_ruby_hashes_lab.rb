@@ -2,7 +2,7 @@ def new_hash(la)
   empty_hash= {}
   puts empty_hash
 end
-
+binding.pry
 def actor
 
 end
