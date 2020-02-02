@@ -1,11 +1,13 @@
 require 'pry'
 def new_hash()
   new_hash = {
-    
-  }
+     }
 end
 
 def actor
+  acto = {
+    :Dwayne The Rock Johnson
+  }
 
 end
 
