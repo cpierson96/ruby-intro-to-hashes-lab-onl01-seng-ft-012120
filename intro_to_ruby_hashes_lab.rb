@@ -5,8 +5,8 @@ def new_hash()
 end
 
 def actor
-  acto = {
-    :Dwayne The Rock Johnson
+  actor = {
+    
   }
 
 end
