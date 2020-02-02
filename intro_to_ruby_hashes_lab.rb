@@ -1,7 +1,6 @@
 require 'pry'
-def new_hash(la)
-  empty_hash= {}
-  puts empty_hash
+def new_hash()
+  new_hash
 end
 
 def actor
